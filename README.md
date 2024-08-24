@@ -127,11 +127,10 @@
 
 ## 1. Clone the Repository
 Start by cloning the repository to your local machine using the following command:
-
-```bash
 git clone https://github.com/DeltaTeam06/-InternTrack.git
-    
-### Contributers 
+
+
+##  Contributers 
     Muskan Gaur 
     Anurag Rathode
     Prakash Kumar
