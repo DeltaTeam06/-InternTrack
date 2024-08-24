@@ -125,11 +125,11 @@
 - **npm**: Node.js usually comes with npm (Node Package Manager). You can check if it's installed by running `npm -v` in your terminal.
 ## Getting Started
 
-## 1. Clone the Repository
+### 1. Clone the Repository
 - Start by cloning the repository to your local machine using the following command:
 git clone https://github.com/DeltaTeam06/-InternTrack.git
-- Install required dependenciese by entering command: npm install
-- Start server command: nodemon app.js
+- Install required dependenciese by entering command:**npm install**
+- Start server command: **nodemon app.js**
 
 ##  Contributers 
     Muskan Gaur 
