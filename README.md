@@ -112,26 +112,25 @@
         [id1,id2, id3...]
     }
 
-## Note: For admin Login
+# Note: For admin Login
     use This eamil and password
     Email: prakash@95
     Password: Prakash@95
     
-## How to run in local System
-### Prerequisites
+# How to run in local System
+## Prerequisites
     Before you begin, ensure you have met the following requirements:
 
 - **Node.js**: You have installed Node.js on your local machine. You can download it from [here](https://nodejs.org/).
 - **npm**: Node.js usually comes with npm (Node Package Manager). You can check if it's installed by running `npm -v` in your terminal.
 ## Getting Started
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 Start by cloning the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/DeltaTeam06/-InternTrack.git
     
-
 ### Contributers 
     Muskan Gaur 
     Anurag Rathode
