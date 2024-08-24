@@ -126,9 +126,10 @@
 ## Getting Started
 
 ## 1. Clone the Repository
-Start by cloning the repository to your local machine using the following command:
+- Start by cloning the repository to your local machine using the following command:
 git clone https://github.com/DeltaTeam06/-InternTrack.git
-
+- Install required dependenciese by entering command: npm install
+- Start server command: nodemon app.js
 
 ##  Contributers 
     Muskan Gaur 
